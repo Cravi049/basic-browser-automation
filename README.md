@@ -37,8 +37,11 @@ This project is beginner-friendly and shows the use of **Python in security auto
      -Place it in your PATH.
 5. Run the script:
      ```python
-   python main.py``` or ```python3 main.py```
-7. Output:
+   python main.py```
+     or
+     ```python
+     python3 main.py```
+6. Output:
 
      -A screenshot will be saved as result.png.
 
