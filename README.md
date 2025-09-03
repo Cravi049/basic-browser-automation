@@ -27,7 +27,7 @@ This project is beginner-friendly and shows the use of **Python in security auto
    git clone https://github.com/yourusername/basic-browser-automation.git
    cd basic-browser-automation
 2. install Selenium
-      pip install selenium
+      pip install selenium or pip3 install selenium if the error is occure then "pip3 install selenium --break-system-packages" - This tells Kali “yes, I know, still install it globally.”
 3. Download and set up ChromeDriver:
 
      -Download ChromeDriver
