@@ -28,13 +28,17 @@ This project is beginner-friendly and shows the use of **Python in security auto
    cd basic-browser-automation
 2. install Selenium
       ```pip install selenium``` or ```pip3 install selenium ```if the error is occure then "```pip3 install selenium --break-system-packages```" - This tells Kali “yes, I know, still install it globally.”
-3. Download and set up ChromeDriver:
+3. Verify Installation
+   ```pip show selenium``` or ```pip3 show selenium```
+
+4. Download and set up ChromeDriver:
 
      -Download ChromeDriver
      -Place it in your PATH.
-4. Run the script:
-     ```python main.py```
-5. Output:
+5. Run the script:
+     ```python
+   python main.py``` or ```python3 main.py```
+7. Output:
 
      -A screenshot will be saved as result.png.
 
