@@ -58,7 +58,8 @@ This project is beginner-friendly and shows the use of **Python in security auto
    ```
 7. Output:
 
-     ```-A screenshot will be saved as result.png.
+     ```
+     A screenshot will be saved as result.png.
 
-     -Terminal output will confirm steps.
+     Terminal output will confirm steps.
      ```
