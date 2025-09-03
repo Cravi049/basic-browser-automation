@@ -37,8 +37,7 @@ This project is beginner-friendly and shows the use of **Python in security auto
      -Place it in your PATH.
 5. Run the script:
      ```python
-   python main.py
-   
+   python main.py```
      python3 main.py
 6. Output:
 
