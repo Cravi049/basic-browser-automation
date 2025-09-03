@@ -14,10 +14,10 @@ This project is beginner-friendly and shows the use of **Python in security auto
 ---
 
 ## 🛠 Tools & Technologies Used
-- Python 3
+```- Python 3
 - Selenium (for browser automation)
 - ChromeDriver
-
+```
 ---
 
 ## 🚀 How to Run the Project
@@ -40,14 +40,15 @@ This project is beginner-friendly and shows the use of **Python in security auto
    
        Download the matching ChromeDriver from:
    ```
-      👉 https://chromedriver.chromium.org/downloads
+       https://chromedriver.chromium.org/downloads
    ```
 
-6. Download and set up ChromeDriver:
+5. Download and set up ChromeDriver:
 
-     -Download ChromeDriver
+     ```-Download ChromeDriver
      -Place it in your PATH.
-7. Run the script:
+     ```
+6. Run the script:
      ```python
    python main.py
      ```
@@ -55,7 +56,7 @@ This project is beginner-friendly and shows the use of **Python in security auto
    ```python
    python3 main.py
    ```
-8. Output:
+7. Output:
 
      -A screenshot will be saved as result.png.
 
