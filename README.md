@@ -30,12 +30,24 @@ This project is beginner-friendly and shows the use of **Python in security auto
       ```pip install selenium``` or ```pip3 install selenium ```if the error is occure then "```pip3 install selenium --break-system-packages```" - This tells Kali “yes, I know, still install it globally.”
 3. Verify Installation
    ```pip show selenium``` or ```pip3 show selenium```
+4. Next Step: ChromeDriver
 
-4. Download and set up ChromeDriver:
+       Since your script uses webdriver.Chrome(), you also need ChromeDriver.
+
+       Check your Google Chrome version:
+
+       Open Chrome → Settings → About Chrome.
+   
+       Download the matching ChromeDriver from:
+   ```
+      👉 https://chromedriver.chromium.org/downloads
+   ```
+
+6. Download and set up ChromeDriver:
 
      -Download ChromeDriver
      -Place it in your PATH.
-5. Run the script:
+7. Run the script:
      ```python
    python main.py
      ```
@@ -43,7 +55,7 @@ This project is beginner-friendly and shows the use of **Python in security auto
    ```python
    python3 main.py
    ```
-6. Output:
+8. Output:
 
      -A screenshot will be saved as result.png.
 
