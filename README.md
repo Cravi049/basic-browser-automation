@@ -40,7 +40,7 @@ This project is beginner-friendly and shows the use of **Python in security auto
    python main.py
      ```
    ```python
-     python3 main.py
+   python3 main.py
    ```
 6. Output:
 
